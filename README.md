@@ -1,3 +1,4 @@
+ÖZYEĞİN UNIVERSITY
 FACULTY OF ENGINEERING
 DEPARTMENT OF COMPUTER SCIENCE
 
@@ -15,7 +16,6 @@ Oğulcan Tekinalp | S004917
 
 Supervised By
 Özlem Salehi Köken
-
 
 For our senior project, we will be focusing on solving NP-Complete problems using quantum programming. NP-Complete problems are identified as problems that no algorithm running in polynomial time can solve, yet the non-existence of such algorithm hasn’t been proven for any of the problems. We aim to demonstrate how NP-Complete problems can be solved by making use of various quantum programming algorithms such as Grover’s Algorithm and Quantum Approximate Optimization Algorithm. We will be analyzing our algorithms based on metrics like quantum volume, number of gates and circuit depth.
 
