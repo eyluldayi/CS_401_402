@@ -30,3 +30,7 @@ Qiskit: https://developer.ibm.com/open/projects/qiskit/
 Jupyter Notebook: https://jupyter.org/
 
 Our agenda for this semester will mainly consist of extensive research on Quantum Programing to get a firm grip on the subject as we have little background knowledge. After we feel comfortable enough to continue to implementation part, we will try to implement Grover’s Algorithm to solve chosen NP-Complete problems like Traveling Salesman Problem, 3SAT and graph coloring.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eyluldayi/CS_401_402/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/eyluldayi/CS_401_402/master
